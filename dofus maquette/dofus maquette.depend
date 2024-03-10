@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1653246498 source:c:\users\nicol\desktop\dofus maquette\main.c
+	"header.h"
+
+1653255726 c:\users\nicol\desktop\dofus maquette\header.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1653253079 source:c:\users\nicol\desktop\dofus maquette\menu.c
+	"header.h"
+
+1653254110 source:c:\users\nicol\desktop\dofus maquette\attaque.c
+	"header.h"
+
+1653255726 source:c:\users\nicol\desktop\dofus maquette\combat.c
+	"header.h"
+
+1685884047 source:c:\users\nicocotier\desktop\tenneguin bansart fossourier chatillon\dofus maquette\attaque.c
+	"header.h"
+
+1685880417 c:\users\nicocotier\desktop\tenneguin bansart fossourier chatillon\dofus maquette\header.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1685880986 source:c:\users\nicocotier\desktop\tenneguin bansart fossourier chatillon\dofus maquette\combat.c
+	"header.h"
+
+1653256164 source:c:\users\nicocotier\desktop\tenneguin bansart fossourier chatillon\dofus maquette\main.c
+	"header.h"
+
+1685880872 source:c:\users\nicocotier\desktop\tenneguin bansart fossourier chatillon\dofus maquette\menu.c
+	"header.h"
+
